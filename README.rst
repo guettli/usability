@@ -26,3 +26,12 @@ double-click on a word should mark the thing in all applications. If I double-cl
 
 
 
+
+## Gnome date stops at end of month.
+
+Today is tuesday July 30. I want to know the date of the next tuesday.
+I click on the time symbol at the top of the scree an see this:
+
+![Gnome date stops at end of month.](gnome-date-stops-at-end-of-month.png)
+
+... grrr I don't see that the next tuesday is July 6th.
