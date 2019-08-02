@@ -1,4 +1,4 @@
-#desktop usablity
+# desktop usablity
 
 my personal point of view.
 
@@ -9,7 +9,7 @@ my personal point of view.
 Screenshots and anecdotes where software made me think. Thinking hurts - I want to avoid it.
 
 
-#Things which could be improved (Ubuntu/Gnome)
+# Things which could be improved (Ubuntu/Gnome)
 
 
 Nautilus images can not be displayed big. Too small for me:
