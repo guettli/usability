@@ -8,8 +8,8 @@ my personal point of view.
 - ctrl-plus ctrl-minus should increase/decrease the text size in every application.
 
 
-Things which could be improved
-==============================
+Things which could be improved (Ubuntu/Gnome)
+=============================================
 
 Nautilus images can not be displayed big. Too small for me:
 
