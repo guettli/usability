@@ -7,9 +7,12 @@ my personal point of view.
 - the default action should be visible (for example the button which gets "pressed" if I hit ENTER)
 - ctrl-plus ctrl-minus should increase/decrease the text size in every application.
 
+Screenshots and anecdotes where software made me think. Thinking hurts - I want to avoid it.
+
 
 Things which could be improved (Ubuntu/Gnome)
 =============================================
+
 
 Nautilus images can not be displayed big. Too small for me:
 
