@@ -1,4 +1,8 @@
-# desktop usablity
+# Usability
+
+This page is my personal barf bag where I write down my dissatisfaction concerning missing usability.
+
+## Desktop Usability
 
 my personal point of view.
 
@@ -9,7 +13,7 @@ my personal point of view.
 Screenshots and anecdotes where software made me think. Thinking hurts - I want to avoid it.
 
 
-# Things which could be improved (Ubuntu/Gnome)
+## Ubuntu/Gnome
 
 
 Nautilus images can not be displayed big. Too small for me:
@@ -41,3 +45,13 @@ I click on the time symbol at the top of the scree an see this:
 ### Gnome panel: Show date next to time
 
 How do I show date next to time in the panel with gnome-shell? https://askubuntu.com/questions/83597/how-do-i-show-date-next-to-time-in-the-panel-with-gnome-shell The current solutions are way too complicated. I want a solution which gets found by a grandma without using google. It should be simple in the spirit of "don't make me think".
+
+## Server
+
+### /usr/bin/systemctl vs /bin/systemctl
+
+Ubuntu uses /bin/systemctl. SuSE /usr/bin/systemctl. No problem? It is annoying if you want to write sudo-rules which work on both distributions.
+
+### Package name differ
+
+Package names differ across linux distributions. Containers improve this, since this reduces the need to make things portable.
