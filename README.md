@@ -55,3 +55,11 @@ Ubuntu uses /bin/systemctl. SuSE /usr/bin/systemctl. No problem? It is annoying 
 ### Package name differ
 
 Package names differ across linux distributions. Containers improve this, since this reduces the need to make things portable.
+
+
+## Slack
+
+### Links: Which channel?
+
+Slack links to a message look like this: `https://yourname.slack.com/archives/GSCDS5XCN/p1783140488002900``
+It would make sense that you can at least guess which channel this message belongs to.
