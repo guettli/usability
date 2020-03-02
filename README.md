@@ -63,3 +63,20 @@ Package names differ across linux distributions. Containers improve this, since 
 
 Slack links to a message look like this: `https://yourname.slack.com/archives/GSCDS5XCN/p1783140488002900``
 It would make sense that you can at least guess which channel this message belongs to.
+
+## C
+If I search for this, the URL does no change: https://www.google.com/search?q=foo
+
+If I open this URL in confluence, then I get redirected:
+
+https://example.atlassian.net/wiki/search?text=foo
+
+https://example.atlassian.net/wiki/search?text=foo&search_id=ca1db899-49a9-4f2d-88d9-eaa36ac1c1dc
+
+That's not nice. I want to send the URL via mail/slack/... the first URL is nice, the second is ugly.
+
+
+
+
+
+
