@@ -64,7 +64,8 @@ Package names differ across linux distributions. Containers improve this, since 
 Slack links to a message look like this: `https://yourname.slack.com/archives/GSCDS5XCN/p1783140488002900``
 It would make sense that you can at least guess which channel this message belongs to.
 
-## C
+## Confluence: Search URLs. Session id gets added to URL
+
 If I search for this, the URL does no change: https://www.google.com/search?q=foo
 
 If I open this URL in confluence, then I get redirected:
