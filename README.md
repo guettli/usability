@@ -1,16 +1,24 @@
 # Usability
 
+Screenshots and anecdotes where software made me think. Thinking hurts - I want to avoid it.
+
 This page is my personal barf bag where I write down my dissatisfaction concerning missing usability.
+
+## Invoices via email which don't contain details
+
+Useless complicated No 1: The email contains a PDF. All details are in the PDF. Grrrr I need to open the PDF first.
+
+
+Useless complicated No 2: The email contains a link to a web-page. There I can find the details. Grrrrr
 
 ## Desktop Usability
 
 my personal point of view.
 
 - enlarging the mouse coursor should very easy
-- the default action should be visible (for example the button which gets "pressed" if I hit ENTER)
+- the default action should be visible very well. For example the button which gets "pressed" if I hit ENTER.
 - ctrl-plus ctrl-minus should increase/decrease the text size in every application.
 
-Screenshots and anecdotes where software made me think. Thinking hurts - I want to avoid it.
 
 
 ## Ubuntu/Gnome
