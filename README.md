@@ -98,8 +98,8 @@ Wow (joking) .... why? Why should star things? Why can't Jira just count what I 
 
 Jira has a new user interface. I have a look at the introduction... Why can't both tools (Jira and Confluence) which are both from the same company have a combined search?
 
-I use just one search engine for almost everything. I don't use search-engine-foo for books and search-engine-bla for blog posts and search-engine-blu for events in my city. I use **one**.
+I use just one search world wide internet engine for almost everything. I don't use search-engine-foo for books and search-engine-bla for blog posts and search-engine-blu for events in my city. I use **one**.
 
-
+Why is this for company wide intranet search different?
 
 ![Jira-Search--not-confluence](jira-search-wow.png)
