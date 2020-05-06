@@ -86,6 +86,12 @@ That's not nice. I want to send the URL via mail/slack/... the first URL is nice
 
 
 
+## Jira: Star things you use often ... Why should I?
 
+Jira has a new user interface. I have a look at the introduction "Star the things you use most to get to them, fast".
+
+Wow (joking) .... why? Why should star things? Why can't Jira just count what I use the most? Then I don't need to star things.
+
+![Jira-star-things-image](jira-star-things.png)
 
 
