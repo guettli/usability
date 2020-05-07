@@ -103,3 +103,12 @@ I use just one search world wide internet engine for almost everything. I don't 
 Why is this for company wide intranet search different?
 
 ![Jira-Search--not-confluence](jira-search-wow.png)
+
+# Gimp does not remember my last brush.
+
+I often paint on screenshots to highlight parts. I like a 4 pixel pink brush fot this.
+
+Unfortunately Gimp does not remember my last setting. Again and again, after starting Gimp
+it is 20 pixel and black. Grrrr why can't Gimp remember my last setting?
+
+
