@@ -111,4 +111,18 @@ I often paint on screenshots to highlight parts. I like a 4 pixel pink brush fot
 Unfortunately Gimp does not remember my last setting. Again and again, after starting Gimp
 it is 20 pixel and black. Grrrr why can't Gimp remember my last setting?
 
+# 1Password: I don't want to remember the container, I want type
 
+The password manager 1password works fine for usual password of web pages.
+
+But if a page uses basic-auth I receive this strange popup. 
+
+Now I open 1password and see this:
+
+![1password](1password.png)
+
+That's not what I want. I want a search field with autocomplete.
+
+If I open 1password I want the cursor to be in this autocomplete field.
+
+I don't want to remeber in which container the password is.
