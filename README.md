@@ -119,7 +119,7 @@ But if a page uses basic-auth I receive this strange popup.
 
 Now I open 1password and see this:
 
-![1password](1password.png)
+![1password](1password-no-search.png)
 
 That's not what I want. I want a search field with autocomplete.
 
