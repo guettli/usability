@@ -136,3 +136,12 @@ There are: Kazam, Open Broadcaster Software Studio, Simple Screen Recorder, Reco
 I don't want to choose. I just want to create a screencast.
 
 It would be nice to have a sane default.
+
+# Ubuntu Software Center
+After installing a new application, I see a screen where I can uninstall it again.
+
+Great. But wait. What is the most likely the next action after install software?
+
+Maybe some people would like to start this application?
+
+Grrr, why is there no button to start the app after installing it?
