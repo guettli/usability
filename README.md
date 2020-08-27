@@ -126,3 +126,13 @@ That's not what I want. I want a search field with autocomplete.
 If I open 1password I want the cursor to be in this autocomplete field.
 
 I don't want to remeber in which container the password is.
+
+# Linux: "thousand" Apps, which one to choose?
+
+I want to create a screencast. But which tools should I use?
+
+There are: Kazam, Open Broadcaster Software Studio, Simple Screen Recorder, Record My Desktop, Voko Screen.
+
+I don't want to choose. I just want to create a screencast.
+
+It would be nice to have a sane default.
