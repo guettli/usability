@@ -15,7 +15,7 @@ Useless complicated No 2: The email contains a link to a web-page. There I can f
 
 my personal point of view.
 
-- enlarging the mouse coursor should very easy
+- enlarging the mouse coursor should very easy. With Ubuntu it is easy, if you know how to do it. See [Settings->Universal Access->Cursor Size](https://askubuntu.com/a/1040828/42348)
 - the default action should be visible very well. For example the button which gets "pressed" if I hit ENTER.
 - ctrl-plus ctrl-minus should increase/decrease the text size in every application.
 
@@ -145,3 +145,5 @@ Great. But wait. What is the most likely the next action after install software?
 Maybe some people would like to start this application?
 
 Grrr, why is there no button to start the app after installing it?
+
+Related: https://askubuntu.com/questions/1270458/next-step-after-installing-software-via-ubuntu-software-center
