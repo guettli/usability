@@ -147,3 +147,9 @@ Maybe some people would like to start this application?
 Grrr, why is there no button to start the app after installing it?
 
 Related: https://askubuntu.com/questions/1270458/next-step-after-installing-software-via-ubuntu-software-center
+
+# Good example: I type "w" into the web browser search bar ....
+
+I type "w" into the web browser search bar and I get a "weather Chemnitz".
+
+That's usability done right. I love this [search prediction](https://support.google.com/websearch/answer/106230?hl=en) feature.
