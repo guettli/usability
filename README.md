@@ -46,7 +46,7 @@ double-click on a word should mark the thing in all applications. If I double-cl
 Today is tuesday July 30. I want to know the date of the next tuesday.
 I click on the time symbol at the top of the scree an see this:
 
-![Gnome date stops at end of month.](gnome-date-stops-at-end-of-month.png)
+![Gnome date stops at end of month.](pics/gnome-date-stops-at-end-of-month.png)
 
 ... grrr I don't see that the next tuesday is July 6th.
 
@@ -92,7 +92,7 @@ Jira has a new user interface. I have a look at the introduction "Star the thing
 
 Wow (joking) .... why? Why should star things? Why can't Jira just count what I use the most? Then I don't need to star things.
 
-![Jira-star-things-image](jira-star-things.png)
+![Jira-star-things-image](pics/jira-star-things.png)
 
 ## Jira Search .. Why not in Confluence?
 
@@ -102,7 +102,7 @@ I use just one search world wide internet engine for almost everything. I don't 
 
 Why is this for company wide intranet search different?
 
-![Jira-Search--not-confluence](jira-search-wow.png)
+![Jira-Search--not-confluence](pics/jira-search-wow.png)
 
 # Gimp does not remember my last brush.
 
@@ -119,7 +119,7 @@ But if a page uses basic-auth I receive this strange popup.
 
 Now I open 1password and see this:
 
-![1password](1password-no-search.png)
+![1password](pics/1password-no-search.png)
 
 That's not what I want. I want a search field with autocomplete.
 
@@ -153,3 +153,5 @@ Related: https://askubuntu.com/questions/1270458/next-step-after-installing-soft
 I type "w" into the web browser search bar and I get a "weather Chemnitz".
 
 That's usability done right. I love this [search prediction](https://support.google.com/websearch/answer/106230?hl=en) feature.
+
+![google-search-prediction--w-weather](pics/google-search-prediction--w-weather.png)
