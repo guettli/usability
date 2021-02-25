@@ -165,3 +165,9 @@ I type "w" into the web browser search bar and I get a "weather Chemnitz".
 That's usability done right. I love this [search prediction](https://support.google.com/websearch/answer/106230?hl=en) feature.
 
 ![google-search-prediction--w-weather](pics/google-search-prediction--w-weather.png)
+
+# Good example: GSuite spelling correction
+
+If Gsuite thinks a word contains a typo, than it gets underlined (that's not new). But new: to correct the word, you just need to click on it.
+That's simple, that's great.
+
