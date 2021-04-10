@@ -171,3 +171,21 @@ That's usability done right. I love this [search prediction](https://support.goo
 If Gsuite thinks a word contains a typo, than it gets underlined (that's not new). But new: to correct the word, you just need to click on it.
 That's simple, that's great.
 
+# Kid vs Linux Guru
+
+Ask a Linux Guru for an easy way to send an image from Digikam to a friend via Whatsapp.
+
+Ask a kid who has no clue about software, linux and programming.
+
+The kid will get this task done faster.
+
+The kid will take his smartphone, take a photo of the screen and sends it. Maybe 10 seconds.
+
+The Linux Guru will be slower.
+
+And if the Linux Guru publishes the solution of the kid he will get down-votes:
+
+https://askubuntu.com/a/1319639/42348
+
+UX is fun.
+
