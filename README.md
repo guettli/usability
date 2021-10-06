@@ -189,3 +189,8 @@ https://askubuntu.com/a/1319639/42348
 
 UX is fun.
 
+# Closed Merge-Request has color "red"
+
+A closed Merge-Request is unimportant for me. But somehow Gitlab thinks a closed MR needs to have the color "red".
+
+![gitlab-closed-merge-request-in-red](pics/gitlab-closed-merge-request-in-red.png)
