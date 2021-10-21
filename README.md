@@ -194,3 +194,8 @@ UX is fun.
 A closed Merge-Request is unimportant for me. But somehow Gitlab thinks a closed MR needs to have the color "red".
 
 ![gitlab-closed-merge-request-in-red](pics/gitlab-closed-merge-request-in-red.png)
+
+# Share PDF (from Chromium browser on Ubuntu)
+
+https://askubuntu.com/questions/1370634/share-pdf-in-chromium-to-whatsapp-mail
+
