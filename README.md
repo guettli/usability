@@ -199,3 +199,11 @@ A closed Merge-Request is unimportant for me. But somehow Gitlab thinks a closed
 
 https://askubuntu.com/questions/1370634/share-pdf-in-chromium-to-whatsapp-mail
 
+# noreply@....
+
+If a company sends email with the sender address "noreply@...", this signals "we don't care about you".
+
+It is unfriendly.
+
+
+
